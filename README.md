@@ -4,9 +4,11 @@ A cel-shading effect applied to .obj models written in OpenGL and C++.
 Uses two types of cel-shading: a naive approach using the diffuse light component and an extended toon shader (known as "x-toon" shading).
 
 ## Gallery
-<img align="left" src="./common/pics/SC1.JPG" width="200" height="200"/>
-<img align="center" src="./common/pics/SC2.JPG" width="200" height="200"/>
-<img align="right" src="./common/pics/SC3.JPG" width="200" height="200"/>
+<p float="left">
+  <img src="./common/pics/SC1.JPG" width="325" />
+  <img src="./common/pics/SC2.JPG" width="325" /> 
+  <img src="./common/pics/SC3.JPG" width="325" />
+</p>
 
 ## How to Build
 ```
