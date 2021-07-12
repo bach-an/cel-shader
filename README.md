@@ -32,4 +32,9 @@ The 3 effects (which are controlled by the D key) are as follows in this order:
 
 Note that these effects are created by the texture, not by any extra light sources.
 
+## Attributions
+* X-toon shading paper: https://hal.inria.fr/inria-00362888/document/
+* Textures: https://github.com/andrerogers/XToonShader/tree/master/ExtendedToonShader/Texture
+* Naive shading: https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S12/final_projects/hutchins_kim.pdf
+
 
