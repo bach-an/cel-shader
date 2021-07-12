@@ -29,6 +29,7 @@ The 3 effects (which are controlled by the D key) are as follows in this order:
 1. Depth of Field
 2. Backlighting
 3. Specular Highlights  
+
 Note that these effects are created by the texture, not by any extra light sources.
 
 
