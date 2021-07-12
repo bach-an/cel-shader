@@ -24,6 +24,10 @@ This project requires an object file (.obj) and a texture file (.ppm). The textu
 * Press D to toggle the y-coordinate of the texture mapping (this alters the x-toon shading effect)
 
 ## The X-Toon Shading Effect
-The paper that describes x-toon shading covers 3 types of effects that can be accomplished based on the type of texture supplied and the calculation in the vertex shader used to determine the y-coordinate of the texture mapping (the x-coordinate is the normalized diffuse light component).
+The paper that describes x-toon shading covers 3 types of effects that can be accomplished based on the type of texture supplied and the calculation in the vertex shader used to determine the y-coordinate of the texture mapping (the x-coordinate is the normalized diffuse light component).  
+The 3 effects (which are controlled by the D key) are as follows in this order
+1. Depth of Field
+2. Backlighting
+3. Specular Highlights
 
 
