@@ -5,8 +5,8 @@ Uses two types of cel-shading: a naive approach using the diffuse light componen
 
 ## Gallery
 <img align="left" src="./common/pics/SC1.JPG"  width="200"/>
-<img align="center" src="./common/pics/SC2.JPG" />
-<img align="right" src="./common/pics/SC3.JPG" />
+<img align="center" src="./common/pics/SC2.JPG" width="200"/>
+<img align="right" src="./common/pics/SC3.JPG" width="200"/>
 
 ## How to Build
 ```
